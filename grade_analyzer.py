@@ -24,3 +24,4 @@ else:
 
 print("Category:", category)
 
+print("Python Grade Analysis Tool")
